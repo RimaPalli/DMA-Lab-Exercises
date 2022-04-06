@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Scrolling Text Homework</string>
+    <string name="article_title">The 4-hour Workweek</string>
+    <string name="article_subtitle">Escape 9-5 Live anywhere and join the new Rich</string>
+    <string name="article_text">Both versions convey a topic; it’s pretty easy to predict that the paragraph will be about epidemiological evidence,
+        but only the second version establishes an argumentative point and puts it in context.
+        The paragraph does’t just describe the epidemiological evidence;
+        it shows how epidemiology is telling the same story as etiology.
+        Similarly, while Version A does’t relate to anything in particular,
+        Version B immediately suggests that the prior paragraph addresses the
+        biological pathway (i.e. etiology) of a disease and that the new paragraph will bolster the emerging
+        hypothesis with a different kind of evidence. As a reader, it’s easy to keep track of how the paragraph
+        about cells and chemicals and such relates to the paragraph about populations in different places.
+        A last thing to note about key sentences is that academic readers expect them to be at the beginning of the paragraph.
+        (The first sentence this paragraph is a good example of this in action!)
+        This placement helps readers comprehend your argument
+        To see how, try this: find an <web>www.google.com</web>
+        academic piece (such as a textbook or scholarly article) that strikes you as well written
+        and go through part of it reading just the first sentence of each paragraph. You should be able to
+        easily follow the sequence of logic. When you’re writing for professors,
+        it is especially effective to put your key sentences first because they usually convey your own
+        original thinking. It’s a very good sign when your paragraphs are typically composed of a telling
+        key sentence followed by evidence and explanation.
+        Knowing this convention of academic writing can help you both read and write more effectively.
+        When you’re reading a complicated academic piece for the first time,
+        you might want to go through reading only the first sentence or two of each
+        paragraph to get the overall outline of the argument. Then you can go back and read all of
+        it with a clearer picture of how each of the details fit in. And when you’re writing,
+        you may also find it useful to write the first sentence of each paragraph
+        (instead of a topic-based outline) to map out a thorough argument before getting immersed
+        in sentence-level wordsmith.
+        For the most part, a text reads smoothly when it conveys a thoughtful and well organized
+        argument or analysis. Focus first and most on your ideas, on crafting an ambitious analysis.
+        The most useful guides advise you to first focus on getting your ideas on paper and then revising
+        for organization and word choice later, refining the analysis as you go.
+        Thus, consider the advice here as if you already have some rough text written and are in
+        the process of smoothing out your prose to clarify your argument for both your reader and yourself.
+</string>
+</resources>
